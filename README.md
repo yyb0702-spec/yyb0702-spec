@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 공부하고 있는 예비 개발자입니다
-- API 연동과 백엔드 기초에 관심이 있습니다
+- API 연동과 백엔드에 관심이 있습니다
 
 ## 💪 Skills
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
