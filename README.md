@@ -5,7 +5,8 @@
 - API 연동과 백엔드 기초에 관심이 있습니다
 
 ## 💪 Skills
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - Git / GitHub
 - JAVA
 - Spring
@@ -14,7 +15,7 @@
 - 직접 서비스를 만들 수 있는 개발자가 되는 것
 
 ## 🔗 My Projects
-- https://github.com/내아이디/레포이름
+- https://github.com/yyb07023-spec/yyb0702-spec
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yyb0702-spec)
 - ![Visitor](https://komarev.com/ghpvc/?username=yyb0702-spec)
