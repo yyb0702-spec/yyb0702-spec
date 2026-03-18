@@ -13,7 +13,7 @@
 - 직접 서비스를 만들 수 있는 개발자가 되는 것
 
 ## 🔗 My Projects
-- https://github.com/yyb07023-spec/yyb0702-spec
+- https://github.com/yyb0702-spec/yyb0702-spec
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yyb0702-spec)
 - ![Visitor](https://komarev.com/ghpvc/?username=yyb0702-spec)
