@@ -5,11 +5,9 @@
 - API 연동과 백엔드에 관심이 있습니다
 
 ## 💪 Skills
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+- JAVA <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+- Spring <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - Git / GitHub
-- JAVA
-- Spring
 
 ## 🎯 Goal
 - 직접 서비스를 만들 수 있는 개발자가 되는 것
