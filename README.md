@@ -19,3 +19,4 @@
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yyb0702-spec)
 - ![Visitor](https://komarev.com/ghpvc/?username=yyb0702-spec)
+- [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fyyb0702-spec&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
