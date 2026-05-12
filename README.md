@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>안녕하세요👋 Backend Developer 윤영범입니다.</h2>
+<img src="github_header.png" alt="Yoon Youngbeom - Backend Developer" width="75%" />
   <p><em>"Spring 기반의 안정적인 백엔드 시스템을 개발을 고민합니다"</em></p>
   
 </div>
